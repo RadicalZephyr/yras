@@ -1,4 +1,4 @@
-(ns ynas.core
+(ns yras.core
   (:require seesaw.core
             clj-time.core))
 

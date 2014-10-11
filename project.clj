@@ -1,4 +1,4 @@
-(defproject ynas "0.1.0-SNAPSHOT"
+(defproject yras "0.1.0-SNAPSHOT"
   :description "A scheduling app of awesomeness."
   :url "https://github.com/RadicalZephyr/yras"
   :license {:name "GNU General Public License"

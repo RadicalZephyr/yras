@@ -1,6 +1,6 @@
-# You Require A Schedule
+# YRAS - You Require A Schedule
 
-Seriously. So do I.
+Seriously. So do I. Also, it's pronounced EYE-riss.
 
 ## Usage
 
